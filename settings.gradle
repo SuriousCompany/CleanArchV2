@@ -1,0 +1,4 @@
+rootProject.name='CleanArchV2'
+include ':presentation'
+include ':data'
+include ':domain'
